@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Scrapping project.**
 
-- 🌱 I’m currently learning **Flutter, Amazon Web Services(AWS)**
+- 🌱 I’m currently learning **Flutter, C/C++**
 
 - 💬 Ask me about **C/C++ , Flutter, Git, Server**
 
