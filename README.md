@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨, I'm Vivek Kr. Dixit</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Web Scrapping project.**
+
 
 - 🌱 I’m currently learning **Flutter, C/C++**
 
