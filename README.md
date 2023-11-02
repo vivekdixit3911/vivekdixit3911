@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, C/C++**
 
-- 💬 Ask me about **C/C++ , Flutter, Git, Server**
+- 💬 Ask me about **cpp , Flutter, Git, Server**
 
 - 📫 How to reach me **✉ vivekdixit48313@gmail.com**
 
