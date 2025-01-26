@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, C/C++**
+- 🌱 I’m currently learning **Flutter, C/C++, Node**
 
 - 💬 Ask me about **cpp , Flutter, Git, Server**
 
